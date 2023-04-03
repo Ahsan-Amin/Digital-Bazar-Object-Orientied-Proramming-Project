@@ -1,7 +1,4 @@
 # Java Digital-Bazar-Object-Orientied-Proramming-2nd-Semester-Project
-
-#  <br />
-# <br />
 # Video Demo
 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -73,7 +70,7 @@ Please make sure to follow our coding standards and best practices
 <h2>🧑🏻 Ahsan Amin </h2>
             <h4>You can get in touch with me on my LinkedIn Profile:</h4>
             <li >
-				<label>Linked In:<label><a href="https://www.linkedin.com/in/ahsan-amin-/">@linkedin</a>
+				<label>Linked In:<label><a href="https://www.linkedin.com/in/ahsan-amin-/">@linkedin <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 			</li>
             <h4>You can also follow my GitHub Profile to stay updated about my latest projects</h4>
 			<li >
