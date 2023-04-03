@@ -1,7 +1,7 @@
-# Digital-Bazar-Object-Orientied-Proramming-Project
-#abou
-#Run on IntelliJ IDEA  <br />
-#JDK 1.8  <br />
+# Java Digital-Bazar-Object-Orientied-Proramming-2nd-Semester-Project
+
+#  <br />
+# <br />
 # Video Demo
 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -15,6 +15,30 @@
 <img src="./images/Manual_1.png">
 <img src="./images/Manual_2.png">
 <img src="./images/Manual_3.png">
+
+# Getting Started 🚀
+
+Start by clicking the green button in the upper right corner to download the code.
+
+Clone the repository and navigate to the project directory
+<li>
+Run on IntelliJ IDEA
+</li>
+<li>
+JDK 1.8 
+</li>
+   
+# Contributing 🤝
+
+I welcome contributions to this project! If you would like to contribute, please follow these steps:
+
+ <li> Fork the repository and create a new branch for your changes. </li>
+  <li> Make your changes and commit them with clear and descriptive messages.  </li>
+  <li>Push your changes to your forked repository.   </li>
+  <li>Create a pull request, describing your changes and why they should be merged into the main project.  </li>
+  <br>
+
+Please make sure to follow our coding standards and best practices
 
 
 # ScreenShoots
@@ -42,5 +66,21 @@
 
  # User History
 ![8](https://user-images.githubusercontent.com/97384975/180079787-ddca36e2-7dad-4770-8701-64a18f232fae.jpg)
+
+
+
+# Authors 
+<h2>🧑🏻 Ahsan Amin </h2>
+            <h4>You can get in touch with me on my LinkedIn Profile:</h4>
+            <li >
+				<label>Linked In:<label><a href="https://www.linkedin.com/in/ahsan-amin-/">@linkedin</a>
+			</li>
+            <h4>You can also follow my GitHub Profile to stay updated about my latest projects</h4>
+			<li >
+				<label>GitHub:<label><a href="https://github.com/Ahsan-Amin">@github</a>
+			</li>
+		<br>
+ If you liked the repo then kindly support it by giving it a star ⭐!
+
 
 
