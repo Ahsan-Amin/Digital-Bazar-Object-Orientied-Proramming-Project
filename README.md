@@ -1,9 +1,9 @@
 # Java Digital-Bazar-Object-Orientied-Proramming-2nd-Semester-Project
 # Video Demo
 
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
-<a href="https://www.youtube.com/watch?v=y0PmX2KlXVE&t=127s ">Video Demo Link</a>
+<a href="https://www.youtube.com/watch?v=y0PmX2KlXVE&t=127s "><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+ <br> Video Demo Link</a>
 
 # UML Diagram
 <img src="./images/Digital_bazar_UML.png">
