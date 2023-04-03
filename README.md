@@ -8,7 +8,16 @@
 
 <a href="https://www.youtube.com/watch?v=y0PmX2KlXVE&t=127s ">Video Demo Link</a>
 
-# SccreenShoots
+# UML Diagram
+<img src="./images/Digital_bazar_UML.png">
+
+# Project Statement 
+<img src="./images/Manual_1.png">
+<img src="./images/Manual_2.png">
+<img src="./images/Manual_3.png">
+
+
+# ScreenShoots
 # Login Your Account If you have alraedy Account
 ![0](https://user-images.githubusercontent.com/97384975/180078646-2351f712-f728-494a-8c4b-c3dac61ff2e1.jpg) 
 
